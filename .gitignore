@@ -1,0 +1,12 @@
+# Python Cache & Environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Streamlit Secrets (wichtig für API-Keys)
+.streamlit/secrets.toml
+
+# Betriebssysteme
+.DS_Store
+Thumbs.db
